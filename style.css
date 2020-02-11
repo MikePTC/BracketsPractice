@@ -6,3 +6,7 @@ html {
 p {
     background-color: green;
 }
+
+img{
+border: 2pt solid #00ff00;
+}
